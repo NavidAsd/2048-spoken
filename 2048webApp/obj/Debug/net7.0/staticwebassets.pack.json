@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\2048webApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\2048webApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\.jshintrc",
+      "PackagePath": "staticwebassets\\.jshintrc"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\Rakefile",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\Back Arrow_512px.png",
+      "PackagePath": "staticwebassets\\images\\Back Arrow_512px.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\Circled Right_512px.png",
+      "PackagePath": "staticwebassets\\images\\Circled Right_512px.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\Scroll Down_512px.png",
+      "PackagePath": "staticwebassets\\images\\Scroll Down_512px.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\Upward Arrow_512px.png",
+      "PackagePath": "staticwebassets\\images\\Upward Arrow_512px.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-128x128.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-128x128.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-144x144.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-144x144.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-152x152.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-152x152.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-192x192.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-192x192.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-384x384.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-384x384.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-512x512.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-512x512.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-72x72.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-72x72.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\images\\icons\\icon-96x96.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-96x96.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\animframe_polyfill.js",
+      "PackagePath": "staticwebassets\\js\\animframe_polyfill.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\application.js",
+      "PackagePath": "staticwebassets\\js\\application.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\bind_polyfill.js",
+      "PackagePath": "staticwebassets\\js\\bind_polyfill.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\classlist_polyfill.js",
+      "PackagePath": "staticwebassets\\js\\classlist_polyfill.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\game_manager.js",
+      "PackagePath": "staticwebassets\\js\\game_manager.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\grid.js",
+      "PackagePath": "staticwebassets\\js\\grid.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\html_actuator.js",
+      "PackagePath": "staticwebassets\\js\\html_actuator.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\keyboard_input_manager.js",
+      "PackagePath": "staticwebassets\\js\\keyboard_input_manager.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\local_storage_manager.js",
+      "PackagePath": "staticwebassets\\js\\local_storage_manager.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\js\\tile.js",
+      "PackagePath": "staticwebassets\\js\\tile.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\meta\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\meta\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\meta\\apple-touch-startup-image-640x1096.png",
+      "PackagePath": "staticwebassets\\meta\\apple-touch-startup-image-640x1096.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\meta\\apple-touch-startup-image-640x920.png",
+      "PackagePath": "staticwebassets\\meta\\apple-touch-startup-image-640x920.png"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Bold-webfont.eot",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Bold-webfont.eot"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Bold-webfont.svg",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Bold-webfont.svg"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Bold-webfont.woff",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Bold-webfont.woff"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Light-webfont.eot",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Light-webfont.eot"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Light-webfont.svg",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Light-webfont.svg"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Light-webfont.woff",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Light-webfont.woff"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Regular-webfont.eot",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Regular-webfont.svg",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\ClearSans-Regular-webfont.woff",
+      "PackagePath": "staticwebassets\\style\\fonts\\ClearSans-Regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\fonts\\clear-sans.css",
+      "PackagePath": "staticwebassets\\style\\fonts\\clear-sans.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\helpers.scss",
+      "PackagePath": "staticwebassets\\style\\helpers.scss"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\main.css",
+      "PackagePath": "staticwebassets\\style\\main.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\style\\main.scss",
+      "PackagePath": "staticwebassets\\style\\main.scss"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\toastr\\toastr.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\2048webApp\\wwwroot\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.2048webApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.2048webApp.props",
+      "PackagePath": "build\\2048webApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.2048webApp.props",
+      "PackagePath": "buildMultiTargeting\\2048webApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.2048webApp.props",
+      "PackagePath": "buildTransitive\\2048webApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

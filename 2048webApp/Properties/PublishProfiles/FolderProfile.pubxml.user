@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Sources\AsrGooyesh\publish\2048</_PublishTargetUrl>
+    <History>True|2023-12-14T19:33:36.5503003Z;True|2023-12-14T11:08:18.9754755-08:00;True|2023-12-14T10:52:36.0838248-08:00;True|2023-12-14T10:36:35.0708571-08:00;True|2023-12-14T10:07:28.5911621-08:00;True|2023-12-14T09:54:17.5738623-08:00;True|2023-12-09T22:49:32.8902616-08:00;True|2023-12-09T20:20:40.0896447-08:00;True|2023-12-09T10:26:38.0870866-08:00;True|2023-12-07T08:52:37.2060702-08:00;True|2023-12-07T08:38:26.6081067-08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

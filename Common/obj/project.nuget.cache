@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BASQP9lWfVXqi2wfcFO1sMqKLWfgfVdqbxApYnLLcRUrpBk9gFK8k833ga1G6joT3baN7L1Eb05JnFBozI2lsA==",
+  "success": true,
+  "projectFilePath": "D:\\Sources\\AsrGooyesh\\Games\\2048webApp\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Win\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0\\microsoft.aspnetcore.cryptography.internal.8.0.0.nupkg.sha512",
+    "C:\\Users\\Mr.Win\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.0\\microsoft.aspnetcore.cryptography.keyderivation.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\bin\Debug\net7.0\Common.deps.json
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\bin\Debug\net7.0\Common.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\bin\Debug\net7.0\Common.pdb
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.sourcelink.json
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\Common.pdb
+D:\Sources\AsrGooyesh\Games\2048webApp\Common\obj\Debug\net7.0\ref\Common.dll

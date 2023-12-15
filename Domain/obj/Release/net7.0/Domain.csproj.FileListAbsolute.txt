@@ -1,0 +1,12 @@
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\bin\Release\net7.0\Domain.deps.json
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\bin\Release\net7.0\Domain.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\bin\Release\net7.0\Domain.pdb
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.AssemblyInfo.cs
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.sourcelink.json
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\refint\Domain.dll
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\Domain.pdb
+D:\Sources\AsrGooyesh\Games\2048webApp\Domain\obj\Release\net7.0\ref\Domain.dll

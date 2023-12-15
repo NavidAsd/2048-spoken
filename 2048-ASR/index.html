@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>2048</title>
+
+  <link href="style/main.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="meta/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="meta/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone 5+ -->
+  <link rel="apple-touch-startup-image" href="meta/apple-touch-startup-image-640x920.png"  media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone, retina -->
+  <link rel="stylesheet" href="toastr/toastr.min.css">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+</head>
+<body>
+  
+  <div class="container">
+    <div class="heading">
+      <h1 class="title">2048</h1>
+      <div class="scores-container">
+        <div class="score-container">0</div>
+        <div class="best-container">0</div>
+      </div>
+    </div>
+
+    <div class="above-game">
+      <p class="game-intro">بگو  <strong>بازی جدید</strong> بازی برات ری استارت میشه</p>
+      <a class="restart-button">بازی جدید</a>
+    </div>
+
+    <div class="game-container">
+      <div class="game-message">
+        <p></p>
+        <div class="lower">
+	        <a class="keep-playing-button">Keep going</a>
+          <a class="retry-button">Try again</a>
+        </div>
+      </div>
+
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+      </div>
+
+      <div class="tile-container">
+
+      </div>
+    </div>
+
+    <p class="game-explanation">
+      <strong class="important">چطوری بازی کنم:</strong>  فقط با گفتن کلمه های زیر بازی کن <strong></strong>
+    </p>
+    <hr>
+    <table>
+      <tr>
+        <th ><img style="background-color: darkgoldenrod;" src="images/Upward Arrow_512px.png" width="35px" alt="Top"></th>
+        <th ><img style="background-color: darkgoldenrod;" src="images/Circled Right_512px.png" width="35px" alt="Right"></th>
+        <th ><img style="background-color: darkgoldenrod;" src="images/Scroll Down_512px.png" width="35px" alt="Down"></th>
+        <th ><img style="background-color: darkgoldenrod;" src="images/Back Arrow_512px.png" width="35px" alt="Left"></th>
+      </tr>
+      
+      <tr>
+        <td>بالا</td>
+        <td>راست</td>
+        <td>پایین</td>
+        <td>چپ</td> 
+      </tr>
+      <tr>
+        <td>سمت بالا</td>
+        <td>سمت راست</td>
+        <td>سمت پایین</td>
+        <td>سمت چپ</td>
+      </tr>
+      <tr>
+        <td>برو بالا</td>
+        <td>برو راست</td>
+        <td>برو پایین</td>
+        <td>برو چپ</td>
+      </tr>
+      <tr>
+        <td>بیا بالا</td>
+        <td>بیا راست</td>
+        <td>بیا پایین</td>
+        <td>بیا چپ</td>
+      </tr>
+    </table>
+    <hr>
+    <p>
+    <strong class="important"></strong> Created By <strong> Navid</strong> For <a href="https://asr-gooyesh.com/fa/" target="_blank">https://asr-gooyesh.com/</a> 
+    </p>
+    <hr>
+    <p>
+    </p>
+  </div>
+  <script src="https://cdn.socket.io/4.6.0/socket.io.min.js"
+  integrity="sha384-c79GN5VsunZvi+Q/WObgk2in0CbZsHnjEqvFxC5DxHn9lTfNce2WW6h2pH6u/kF+"
+  crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+  <script src="js/bind_polyfill.js"></script>
+  <script src="js/classlist_polyfill.js"></script>
+  <script src="js/animframe_polyfill.js"></script>
+  <script  src="js/keyboard_input_manager.js"></script>
+  <script src="js/html_actuator.js"></script>
+  <script src="js/grid.js"></script>
+  <script src="js/tile.js"></script>
+  <script src="js/local_storage_manager.js"></script>
+  <script src="js/game_manager.js"></script>
+  <script src="js/application.js"></script>
+  <script src="toastr/toastr.min.js"></script>
+
+</body>
+</html>
