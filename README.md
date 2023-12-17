@@ -8,6 +8,8 @@ I just combined it with the ASR service of Navisa Enterprise
 
 [Online Nevisa](https://ent.persianspeech.com/)
 
+[2048 Nevisa](https://2048.persianspeech.com/)
+
 ### Screenshot
 
 <p align="center">
