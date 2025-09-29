@@ -6,7 +6,7 @@ Where I took the game from[here](https://github.com/gabrielecirulli/2048)
 
 I just combined it with the ASR service of Navisa Enterprise
 
-[Online Nevisa](https://ent.persianspeech.com/)
+[Online Nevisa](https://nevisa.persianspeech.com/)
 
 [2048 Nevisa](https://2048.persianspeech.com/)
 
